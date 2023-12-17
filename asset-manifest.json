@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FAQ-Page/static/css/main.fac53b5e.css",
+    "main.js": "/FAQ-Page/static/js/main.e215adcd.js",
+    "static/js/787.a6846efb.chunk.js": "/FAQ-Page/static/js/787.a6846efb.chunk.js",
+    "static/media/Screenshot 2023-12-12 020640.png": "/FAQ-Page/static/media/Screenshot 2023-12-12 020640.49471bb712863f8df5a9.png",
+    "index.html": "/FAQ-Page/index.html",
+    "static/media/icon-star.svg": "/FAQ-Page/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/FAQ-Page/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/FAQ-Page/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.fac53b5e.css.map": "/FAQ-Page/static/css/main.fac53b5e.css.map",
+    "main.e215adcd.js.map": "/FAQ-Page/static/js/main.e215adcd.js.map",
+    "787.a6846efb.chunk.js.map": "/FAQ-Page/static/js/787.a6846efb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac53b5e.css",
+    "static/js/main.e215adcd.js"
+  ]
+}
